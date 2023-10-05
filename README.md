@@ -10,5 +10,5 @@
 - 🎓 Bacharelado em Engenharia de Energia.
 
 #### tecnologias
-
+![alt text](logo_github2.png)
 
