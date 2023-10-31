@@ -6,7 +6,7 @@
 ##
 - 🔭 Atualmente busco oportunidades em projetos ***orientado a dados***
 - 📑 Estudo tecnologias e áreas que desenvolvam processos, aplicações e visualizações de dados.
-- ✔️ Certificações *Data Analyst*
+- ✔️ Certificações *Data Analyst* (SQL + Python)
 - 🎓 Bacharelado em Engenharia de Energia.
 
 #### tecnologias
