@@ -5,6 +5,6 @@
 -->
 ##
 - 🔭 Atualmente busco oportunidades em projetos ***orientado a dados***
-- 📑 Engenharia de dados - modelagem,  pipelines de dados, transformações, armazenamento, disponibilização, monitoramento, governança.
+- 📑 Data Engineering / Analytics Engineering - modelagem, pipelines de dados, transformações, armazenamento, disponibilização, monitoramento.
 - ✔️ Certificações *Data Analyst* (SQL + Python)
 - 🎓 Bacharelado em Engenharia.
