@@ -1,10 +1,10 @@
-### Olá, Meu nome é João Ribeiro! 🔎
+### Hi, I'm João Ribeiro! 🔎
 
 <!--
 **ribjoao/ribjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##
-- 🔭 Atualmente busco projetos ***orientado a dados***.
-- 📑 Data Engineering / Analytics Engineering - modelagem, pipelines de dados, transformações, armazenamento, disponibilização, monitoramento.
-- ✔️ Certificações *Data Analyst* (SQL + Python)
-- 🎓 Bacharelado em Engenharia.
+- 🔭 Looking for **Data-Driven"" projects.
+- 📑 Data Engineering / Analytics Engineering - data model, data pipelines, transform, data lineage, data observability.
+- ✔️ *Data Analyst* (SQL + Python) Certificate
+- 🎓 Electrical Engineering, Energy
