@@ -5,6 +5,6 @@
 -->
 ##
 - 🔭 Looking for Data-Driven projects.
-- 📑 Data Engineering / Analytics Engineering - data model, data pipelines, transform, data lineage, data observability.
+- 📑 Data Engineering / Analytics Engineering
 - ✔️ *Data Analyst* (SQL + Python) Certificate
 - 🎓 Electrical Engineering, Energy
