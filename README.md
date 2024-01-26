@@ -6,5 +6,4 @@
 ##
 - 🔭 Looking for Data-Driven projects.
 - 📑 Data Engineering / Analytics Engineering
-- ✔️ *Data Analyst* (SQL + Python) Certificate
 - 🎓 Electrical Engineering, Energy
