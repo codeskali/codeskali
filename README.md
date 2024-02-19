@@ -6,4 +6,4 @@
 ##
 - 🔭 Looking for Data-Driven projects.
 - 📑 Data Engineering / Analytics Engineering
-- 🎓 Electrical Engineering, Energy
+- 🎓 Electrical Engineering
