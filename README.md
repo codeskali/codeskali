@@ -5,5 +5,5 @@
 -->
 ##
 - 🔭 Looking for Data-Driven projects.
-- 📑 Data Engineering / Analytics Engineering
+- 📑 Data Engineering / Analytics Engineering / Data Analysis
 - 🎓 Electrical Engineering / IT
