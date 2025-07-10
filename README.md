@@ -1,9 +1,6 @@
-### Hi, I'm João Ribeiro! 🔎
+### Hi, I'm Kali! 🔎
 
-<!--
-**ribjoao/ribjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ##
-- 🔭 Looking for Data-Driven projects.
-- 📑 Data Engineering / Analytics Engineering / Data Analysis
-- 🎓 Electrical Engineering / IT
+- 🔭 Looking for Full Stack projects.
+- 📑 Back-End / Front-End / Full Stack
+- 🎓 IT / Software Engineering / Electrical Engineering
